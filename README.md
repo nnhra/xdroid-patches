@@ -1,6 +1,11 @@
-## xdroid_patches 
-Patches for building xdroid gsi
-(WIP)
+## xdroidOSS Twelve Patches for Generic System Image
+Patches for building xdroidOSS Twelve
+
+### How to apply patches? ###
+```bash
+git clone https://github.com/MizuNotCool/xdroid-patches -b twelve
+bash xdroid-patches/apply-patches.sh
+```
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/79507925/189936465-7be7fb0f-1c05-4bdc-a924-2ddbe5fc5f75.png)
