@@ -7,7 +7,7 @@ git clone https://github.com/MizuNotCool/xdroid-patches -b twelve
 bash xdroid-patches/apply-patches.sh
 ```
 
-## Screenshots
+## Screenshots by [Nazim](https://github.com/naz664)
 ![image](https://user-images.githubusercontent.com/79507925/189936465-7be7fb0f-1c05-4bdc-a924-2ddbe5fc5f75.png)
 ![image](https://user-images.githubusercontent.com/79507925/189936627-640c1f45-ddc2-47cd-af74-0286edeacd10.png)
 ![image](https://user-images.githubusercontent.com/79507925/189936935-7e940a12-20b7-46f1-b837-1bdd8eaff709.png)
