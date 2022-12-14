@@ -2,7 +2,7 @@
 
 set -e
 
-source="$(readlink -f -- $1)"
+source="$(dirname "$(readlink -f -- "$0")")"
 phh="$source/xdroid-patches/patches/phh"
 personal="$source/xdroid-patches/patches/personal"
 extras="$source/xdroid-patches/patches/extras"
