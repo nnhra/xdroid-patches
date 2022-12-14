@@ -3,10 +3,10 @@
 set -e
 
 source="$(dirname "$(readlink -f -- "$0")")"
-phh="$source/xdroid-patches/patches/phh"
-personal="$source/xdroid-patches/patches/personal"
-extras="$source/xdroid-patches/patches/extras"
-misc="$source/xdroid-patches/patches/misc"
+phh="$source/patches/phh"
+personal="$source/patches/personal"
+extras="$source/patches/extras"
+misc="$source/patches/misc"
 
 printf "\n #### APPLYING PHH PATCHES ####\n";
 sleep 1.0;
