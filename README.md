@@ -1,9 +1,9 @@
-## xdroidOSS Twelve Patches for Generic System Image
-Patches for building xdroidOSS Twelve
+## xdroidOSS Thirteen Patches for Generic System Image
+Patches for building xdroidOSS Thirteen
 
 ### How to apply patches? ###
 ```bash
-git clone https://github.com/MizuNotCool/xdroid-patches -b twelve
+git clone https://github.com/MizuNotCool/xdroid-patches -b thirteen
 bash xdroid-patches/apply-patches.sh
 ```
 
@@ -19,6 +19,7 @@ bash xdroid-patches/apply-patches.sh
 These people have helped this project in some way or another, so they should be the ones who receive all the credit:
 - [xdroid Team](https://github.com/xdroid-oss)
 - [Nazim](https://github.com/naz664)
+- [TheAtt1la](https://github.com/TheAtt1la)
 - [Phhusson](https://github.com/phhusson)
 - [AndyYan](https://github.com/AndyCGYan)
 - [Ponces](https://github.com/ponces)
